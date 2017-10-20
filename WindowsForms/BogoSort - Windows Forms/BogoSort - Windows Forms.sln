@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogoSort - Windows Forms", "BogoSort - Windows Forms\BogoSort - Windows Forms.csproj", "{27A87D7C-E494-47E0-B85B-B048FA53F8C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A87D7C-E494-47E0-B85B-B048FA53F8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A87D7C-E494-47E0-B85B-B048FA53F8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A87D7C-E494-47E0-B85B-B048FA53F8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A87D7C-E494-47E0-B85B-B048FA53F8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6682C537-CD9A-43CB-9AB5-B899C7422FC0}
+	EndGlobalSection
+EndGlobal
