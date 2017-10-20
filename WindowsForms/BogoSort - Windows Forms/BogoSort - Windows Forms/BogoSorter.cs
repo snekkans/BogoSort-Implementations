@@ -20,7 +20,7 @@ namespace BogoSort___Windows_Forms
             {
                 numShuffles += 1;
                 list.Shuffle();
-                Console.WriteLine(numShuffles);
+                //Console.WriteLine(numShuffles);
             }
             return numShuffles;
         }
@@ -33,15 +33,14 @@ namespace BogoSort___Windows_Forms
             }
             for (int i = 1; i < list.Count; i++)
                 if (list[i].CompareTo(list[i - 1]) < 0) return false;
-            //TODO: Send the array back to form1.cs
-            
+
             for (int i = 0; i < list.Count; i++)
             {
                 arrayString += list[i].ToString();
                 if (i != list.Count - 1) { arrayString += ", "; }
             }
             arrayString += "]";
-            Console.WriteLine(arrayString);
+            //Console.WriteLine(arrayString);
             return true;
         }
 

@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogoSort - Windows Forms", "BogoSort - Windows Forms\BogoSort - Windows Forms.csproj", "{27A87D7C-E494-47E0-B85B-B048FA53F8C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98AE7115-21FB-4E9A-A8CA-5A5A0C9EC8E5}"
+	ProjectSection(SolutionItems) = preProject
+		BogoSort - Windows Forms.exe = BogoSort - Windows Forms.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

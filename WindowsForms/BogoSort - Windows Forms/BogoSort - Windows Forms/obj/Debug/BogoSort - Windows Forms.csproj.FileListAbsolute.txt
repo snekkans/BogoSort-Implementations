@@ -12,3 +12,17 @@ C:\Users\Kevin\OneDrive\BogoSort\BogoSort - Windows Forms\BogoSort - Windows For
 C:\Users\Kevin\OneDrive\BogoSort\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.application
 C:\Users\Kevin\OneDrive\BogoSort\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.exe.manifest
 C:\Users\Kevin\OneDrive\BogoSort\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.application
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.exe.config
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.exe.manifest
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.application
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.exe
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\bin\Debug\BogoSort - Windows Forms.pdb
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort___Windows_Forms.BogoSortForm.resources
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort___Windows_Forms.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.exe.manifest
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.application
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.exe
+C:\Users\Kevin\Documents\GitHub\Bogosort-Implementations\WindowsForms\BogoSort - Windows Forms\BogoSort - Windows Forms\obj\Debug\BogoSort - Windows Forms.pdb

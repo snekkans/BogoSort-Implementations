@@ -41,7 +41,7 @@ namespace BogoSort___Windows_Forms
                     List<int> arrayToBeSorted=generateArray(numGeneratedValues);
                     lbl_generatedArray.Text = arrayString;
                     
-                    Console.WriteLine(arrayString);
+                    //Console.WriteLine(arrayString);
                 }
                 
             }
@@ -75,7 +75,7 @@ namespace BogoSort___Windows_Forms
             lbl_numShuffles.Text = howLong.ToString();
             btn_generateArray.Enabled = true;
             btn_go.Enabled = false;
-            Console.WriteLine("Bogosort took " + howLong + " tries to sort the initial array " + arrayString);
+            //Console.WriteLine("Bogosort took " + howLong + " tries to sort the initial array " + arrayString);
         }
     }
 }
