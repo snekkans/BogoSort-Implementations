@@ -24,7 +24,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Enter size of array to generate (Max 100):"
+                android:text="Enter size of array to generate (Max 10):"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="16dp" />
@@ -82,21 +82,5 @@
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="93dp" />
 
-        <TextView
-            android:id="@+id/txt_numTimesBeforeSorted"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Times shuffled before correctly sorted:"
-            android:textAppearance="@style/TextAppearance.AppCompat"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="141dp" />
-
-        <TextView
-            android:id="@+id/txt_timesShuffled"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:visibility="invisible"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="158dp" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

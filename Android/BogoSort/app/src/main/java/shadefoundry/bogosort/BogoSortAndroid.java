@@ -31,7 +31,6 @@ public class BogoSortAndroid extends AppCompatActivity {
     }
 
     public void beginSorting(View view) {
-        TextView txt_timesShuffled = (TextView)findViewById(R.id.txt_timesShuffled);
         Button btn_generateArray = (Button)findViewById(R.id.btn_generateArray);
         Button btn_go = (Button)findViewById(R.id.btn_startSorting);
         //btn_generateArray.setEnabled(false);
@@ -107,7 +106,7 @@ public class BogoSortAndroid extends AppCompatActivity {
         catch (Exception e){numValuesToGenerate = 0;}
 
         //if the number to generate is 0 throw an error
-        if(numValuesToGenerate==0||numValuesToGenerate>100){return false;}
+        if(numValuesToGenerate==0||numValuesToGenerate>10){return false;}
         //if the value is bigger than 6, we're probably going to
         // crash so we should probably let the user know
         else if(numValuesToGenerate>6){
