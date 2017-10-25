@@ -110,7 +110,7 @@ public class BogoSortAndroid extends AppCompatActivity {
         //if the value is bigger than 6, we're probably going to
         // crash so we should probably let the user know
         else if(numValuesToGenerate>6){
-            cry("More than 6 values PROBABLY CRASH, fair warning!");
+            cry("More than 6 values will PROBABLY CRASH, fair warning!");
             return true;
         }
         //otherwise proceed with the madness
