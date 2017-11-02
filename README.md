@@ -1,5 +1,5 @@
 # Bogosort-Implementations
-Multiple implementations of the Bogosort algorithm in the various technologies I've worked with.
+Multiple implementations of the Bogosort algorithm in the various technologies.
 
 *Basic Bogosort implementations taken from https://rosettacode.org/wiki/Sorting_algorithms/Bogosort
 
