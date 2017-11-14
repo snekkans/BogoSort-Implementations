@@ -19,10 +19,14 @@ def generateArray(x):
 
 def bogoSort(x):
     timesShuffled = 0
+    #shuffle the list once just in case for good measure
     random.shuffle(x)
+    #while the list isn't sorted
     while x!=sorted(x):
+        #shuffle it and hope for the best
         random.shuffle(x)
         timesShuffled=timesShuffled+1
+    #once we're done, tell the user how much time was wasted!
     print("It took bogosort ",timesShuffled," to sort the array:")
     return x
 #change the value in generateArray to generate more or less numbers
